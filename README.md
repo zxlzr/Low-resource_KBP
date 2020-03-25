@@ -63,7 +63,7 @@ Some papers on low-resource knowledge base population. (mostly from 2018 to 2020
 
 * [A Little Annotation does a Lot of Good : A Study in Bootstrapping Low-resource Named Entity Recognizers](https://arxiv.org/pdf/1908.08983) (EMNLP 2019)
 
-* [Active Entity Recognition in Low Resource Settings] (https://ninggao.github.io/pub/19/CIKM19.pdf) (CIKM2019)
+* [Active Entity Recognition in Low Resource Settings](https://ninggao.github.io/pub/19/CIKM19.pdf) (CIKM2019)
 
-* [Few-Shot Sequence Labeling with Label Dependency Transfer] (https://arxiv.org/pdf/1906.08711) (arxiv)
+* [Few-Shot Sequence Labeling with Label Dependency Transfer](https://arxiv.org/pdf/1906.08711) (arxiv)
 
